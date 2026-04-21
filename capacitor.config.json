@@ -1,0 +1,6 @@
+{
+  "appId": "com.simplegamemaker204.nanoengine",
+  "appName": "NanoEngine 2D",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
